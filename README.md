@@ -12,7 +12,7 @@ This task involves writing a function which takes in a list as input and returns
 ## Task 2 - 02/11/2020
 **Dice roll simulation**
 ***
-Task 2 involves writing a Python function called dicerolls that simulates rolling dice. The function should take two parameters: the number of dice *k* and the number of times to roll the dice *n*. The function should simulate randomly rolling k dice n times, keeping track of each total face value. It should then return a dictionary with the number of times each possible total face value occurred. I generate plots for visualisation of the output of the function, with *k* set to different values.
+Task 2 involves writing a Python function called `dicerolls()` that simulates rolling dice. The function should take two parameters: the number of dice *k* and the number of times to roll the dice *n*. The function should simulate randomly rolling k dice n times, keeping track of each total face value. It should then return a dictionary with the number of times each possible total face value occurred. I generate plots for visualisation of the output of the function, with *k* set to different values.
 
 ## Task 3 - 16/11/2020
 **Coin flip simulation**
