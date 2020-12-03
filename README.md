@@ -18,3 +18,8 @@ Task 2 involves writing a Python function called `dicerolls()` that simulates ro
 **Coin flip simulation**
 ***
 For task 3, the aim is to write some python code that simulates flipping a coin 100 times. This code is then run 1,000 times, keeping track of the number of heads in each of the 1,000 simulations. An appropriate plot is selected to depict the resulting list of 1,000 numbers, showing that it roughly follows a bell-shaped curve.
+
+## Task 4 = 30/11/2020
+**Simpson's Paradox**
+***
+In this task, I demonstrate Simpson's paradox through visualisation. I generate 4 data sets using `numpy.linspace`, each of which represent a positive trend in the relationship between variables. However, when each of theses data sets are taken in aggregate, an overall negative trend is observed. This is best understood through visualisation and in the Jupyter notebook I have plotted the data on a graph. I also explain why I chose the parameters in generating the data sets, and why this results in the phenomenon of Simpson's paradox. 
